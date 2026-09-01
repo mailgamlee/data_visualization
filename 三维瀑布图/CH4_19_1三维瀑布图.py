@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 30 10:55:50 2019
-
-@author: Jie Zhang，微信公众号【EasyShu】，本代码源自《Python数据可视化之美》
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
