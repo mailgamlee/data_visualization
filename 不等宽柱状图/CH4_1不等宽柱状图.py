@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 20 15:24:54 2019
-
-@author: Jie Zhang，微信公众号【EasyShu】，本代码源自《Python数据可视化之美》
-"""
-
 import pandas as pd
 import numpy as np
 from plotnine import *
